@@ -1,0 +1,60 @@
+[33mcommit e12906219c740f8156a5b1162d5b8818a3f2062d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: anggitadianing <anggitadianing@gmail.com>
+Date:   Sat Dec 11 19:30:32 2021 +0700
+
+    pertemuan 10
+
+[33mcommit 678a6d25dd1e35311e1a91c40570b903409362c9[m
+Author: anggitadianing <anggitadianing@gmail.com>
+Date:   Thu Dec 2 13:06:58 2021 +0700
+
+    pertemuan11
+
+[33mcommit 1f28105ac685f519cb7a729d7d352f8682a6e5e3[m[33m ([m[1;31mgithub/master[m[33m)[m
+Author: anggitadianing <anggitadianing@gmail.com>
+Date:   Thu Nov 18 21:04:00 2021 +0700
+
+    pertemuan 9
+
+[33mcommit 8a55157c2bc2a68d71d59e1063a4df3075450960[m
+Merge: 90bdef9 873421b
+Author: anggitadianing <anggitadianing@gmail.com>
+Date:   Sat Oct 30 19:34:33 2021 +0700
+
+    Menambahkan model
+
+[33mcommit 873421b4c06d73ff73299213cf49d12f4ac33831[m
+Author: anggitadianing <90998216+anggitadianing@users.noreply.github.com>
+Date:   Thu Oct 28 23:18:19 2021 +0700
+
+    Add files via upload
+
+[33mcommit 90bdef951712b71ff6b849aef256c7b8685a2f41[m
+Author: anggitadianing <anggitadianing@gmail.com>
+Date:   Thu Oct 28 20:44:08 2021 +0700
+
+    ModelUser.php & ModelBuku.php
+
+[33mcommit ed20e6307d31f1cf5565180ec11ec1271542cf45[m
+Author: anggitadianing <anggitadianing@gmail.com>
+Date:   Wed Oct 20 17:18:28 2021 +0700
+
+    menambahkan validasi controller & view
+
+[33mcommit 134a4b89d97d1914800a4f760b22bdbeba1540d8[m
+Author: anggitadianing <anggitadianing@gmail.com>
+Date:   Thu Oct 14 19:21:47 2021 +0700
+
+    File Upload Baru
+
+[33mcommit 1e0f4f2d2f874c75e6986ac4f6ae585d1c2eb96e[m
+Author: anggitadianing <anggitadianing@gmail.com>
+Date:   Tue Oct 5 22:09:47 2021 +0700
+
+    melakukan perubahan contoh1
+
+[33mcommit a48d9adb031d889fc58aadbab12699130dc30d16[m
+Author: anggitadianing <anggitadianing@gmail.com>
+Date:   Tue Oct 5 22:03:11 2021 +0700
+
+    membuat cinema 99
